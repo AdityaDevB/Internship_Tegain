@@ -1,0 +1,35 @@
+body {
+    background-color:#0F172A;
+    margin : 0;
+    color: white;
+}
+header {
+    background-color: aliceblue;
+    color: black;
+    align-content: center;
+    text-align: center;
+}
+#div1 
+{
+    text-align: left;
+}
+#photo {
+    display : block;
+    margin : 0 auto;
+}
+#Phead {
+    margin-left: 50px;
+}
+#Pbody{
+   margin-left: 60px; 
+}
+button{
+    margin-right: 100px;
+    color:aliceblue;
+    background-color: black;
+}
+footer {
+    background-color: aliceblue;
+    color: black;
+    margin: 0px;
+}
